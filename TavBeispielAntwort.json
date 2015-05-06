@@ -1,0 +1,23 @@
+{
+  "konditionen"
+  :
+  [{
+    "zinsBindungInJahren": 5,
+    "laufzeitInMonaten": 400,
+    "sollZins": 3.5,
+    "effektivZins": 2.7,
+    "monatlicheRate": 255.66,
+    "restschuld": 28001.99,
+    "produktAnbieter": {"value": "DSL_BANK"},
+    "produktArt": "FORWARD"
+  }, {
+    "zinsBindungInJahren": 3,
+    "laufzeitInMonaten": 400,
+    "sollZins": 3.5,
+    "effektivZins": 2.7,
+    "monatlicheRate": 255.66,
+    "restschuld": 28001.99,
+    "produktAnbieter": {"value": "DSL_BANK"},
+    "produktArt": "ANNUITAET"
+  }]
+}
