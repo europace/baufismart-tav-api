@@ -1,23 +1,44 @@
 {
-  "konditionen"
-  :
-  [{
-    "zinsBindungInJahren": 5,
-    "laufzeitInMonaten": 400,
-    "sollZins": 3.5,
-    "effektivZins": 2.7,
-    "monatlicheRate": 255.66,
-    "restschuld": 28001.99,
-    "produktAnbieter": {"value": "DSL_BANK"},
-    "produktArt": "FORWARD"
-  }, {
-    "zinsBindungInJahren": 3,
-    "laufzeitInMonaten": 400,
-    "sollZins": 3.5,
-    "effektivZins": 2.7,
-    "monatlicheRate": 255.66,
-    "restschuld": 28001.99,
-    "produktAnbieter": {"value": "DSL_BANK"},
-    "produktArt": "ANNUITAET"
-  }]
+  "konditionen": [
+    {
+      "zinsBindungInJahren": 5,
+      "laufzeitInMonaten": 844,
+      "sollZins": 0.95,
+      "effektivZins": 0.95,
+      "monatlicheRate": 162.5,
+      "restschuld": 94794,
+      "produktAnbieter": "DSL",
+      "produktArt": "ANNUITAET"
+    },
+    {
+      "zinsBindungInJahren": 10,
+      "laufzeitInMonaten": 783,
+      "sollZins": 1.23,
+      "effektivZins": 1.24,
+      "monatlicheRate": 185.83,
+      "restschuld": 89270.99,
+      "produktAnbieter": "MHB",
+      "produktArt": "FORWARD"
+    },
+    {
+      "zinsBindungInJahren": 15,
+      "laufzeitInMonaten": 699,
+      "sollZins": 1.72,
+      "effektivZins": 1.73,
+      "monatlicheRate": 226.67,
+      "restschuld": 82792.55,
+      "produktAnbieter": "WL_Bank",
+      "produktArt": "ANNUITAET"
+    },
+    {
+      "zinsBindungInJahren": 20,
+      "laufzeitInMonaten": 664,
+      "sollZins": 1.97,
+      "effektivZins": 1.99,
+      "monatlicheRate": 247.5,
+      "restschuld": 75388.09,
+      "produktAnbieter": "VOBA_TEST",
+      "produktArt": "FORWARD"
+    }
+  ]
 }
