@@ -1,9 +1,19 @@
+ 
 # Top Angebot Vertrieb (TAV)
-
-Top Angebot Vertrieb (TAV) - ist ein Service zur Ermittlung der Top-Baufinanzierungskondition für EUROPACE Partner.
+ 
+Top Angebot Vertrieb (TAV) – ist ein Service zur Ermittlung der Top-Baufinanzierungskondition für EUROPACE Partner
 Die Schnittstelle liefert zu mehreren Zinsbindungen die jeweils beste Baufinanzierungskondition des anfragenden Partners auf Basis seiner Handelsbeziehungen in Europace.
-Bei Angabe eines Auszahlungsdatums werden neben Annuitätendarlehen auch Forward Darlehen bei der Bestzinsermittlung berücksichtigt. 
 
+
+## Anwendungsbeispiele
+ 
+* Konditionstableau auf der Website eines Europace Partners oder
+* Online Baufinanzierungsrechner ("Was kann ich mir leisten" Rechner)
+ 
+## Fachliche Eckdaten
+ 
+TAV berücksichtigt bei der Ermittlung der besten Baufinanzierungskondition die Produktarten Annuitätendarlehen und Forward Darlehen.
+Bei Angabe eines Auszahlungsdatums, dass > 6 Monate in der Zukunft liegt, werden neben Annuitätendarlehen auch Forward Darlehen berücksichtigt.
 
 ## Inhalt
 * [Datenformat der Schnittstelle](#datenformat-der-tav-schnittstelle)
