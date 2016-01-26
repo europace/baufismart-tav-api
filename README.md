@@ -63,43 +63,51 @@ Die TAV Standard API stellt die Konditionen als JSON Dokument bereit.
   "konditionen": [
     {
       "zinsBindungInJahren": 5,
-      "laufzeitInMonaten": 844,
-      "sollZins": 0.95,
-      "effektivZins": 0.95,
-      "monatlicheRate": 162.5,
-      "restschuld": 94794,
-      "produktAnbieter": "DSL",
-      "produktArt": "ANNUITAET"
+      "laufzeitInMonaten": 858,
+      "sollZins": 0.9,
+      "effektivZins": 0.9,
+      "monatlicheRate": 158.33,
+      "restschuld": 94887.95,
+      "produktAnbieter": "BW_BANK",
+      "produktArt": "ANNUITAET",
+      "summeZahlungen": 135629.44,
+      "grundbuchKosten": 273
     },
     {
       "zinsBindungInJahren": 10,
-      "laufzeitInMonaten": 783,
-      "sollZins": 1.23,
-      "effektivZins": 1.24,
-      "monatlicheRate": 185.83,
-      "restschuld": 89270.99,
-      "produktAnbieter": "MHB",
-      "produktArt": "FORWARD"
+      "laufzeitInMonaten": 742,
+      "sollZins": 1.46,
+      "effektivZins": 1.47,
+      "monatlicheRate": 205,
+      "restschuld": 89240.15,
+      "produktAnbieter": "PSD_BERLIN",
+      "produktArt": "ANNUITAET",
+      "summeZahlungen": 151884.95,
+      "grundbuchKosten": 273
     },
     {
       "zinsBindungInJahren": 15,
-      "laufzeitInMonaten": 699,
-      "sollZins": 1.72,
-      "effektivZins": 1.73,
-      "monatlicheRate": 226.67,
-      "restschuld": 82792.55,
-      "produktAnbieter": "WL_Bank",
-      "produktArt": "ANNUITAET"
+      "laufzeitInMonaten": 659,
+      "sollZins": 2.02,
+      "effektivZins": 2.04,
+      "monatlicheRate": 251.67,
+      "restschuld": 82495.84,
+      "produktAnbieter": "PSD_BERLIN",
+      "produktArt": "ANNUITAET",
+      "summeZahlungen": 165547.16,
+      "grundbuchKosten": 273
     },
     {
       "zinsBindungInJahren": 20,
-      "laufzeitInMonaten": 664,
-      "sollZins": 1.97,
-      "effektivZins": 1.99,
-      "monatlicheRate": 247.5,
-      "restschuld": 75388.09,
-      "produktAnbieter": "VOBA_TEST",
-      "produktArt": "FORWARD"
+      "laufzeitInMonaten": 613,
+      "sollZins": 2.41,
+      "effektivZins": 2.44,
+      "monatlicheRate": 284.17,
+      "restschuld": 74333.9,
+      "produktAnbieter": "DKB",
+      "produktArt": "ANNUITAET",
+      "summeZahlungen": 173945.08,
+      "grundbuchKosten": 273
     }
   ]
 }
