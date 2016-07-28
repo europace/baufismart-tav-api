@@ -75,7 +75,7 @@
         "vermittler": {
           "type": "string"
         },
-        "ep2partnerId": {
+        "ep2PartnerId": {
           "type": "string"
         },
         "auszahlungsTermin": {

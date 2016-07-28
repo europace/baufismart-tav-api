@@ -51,6 +51,7 @@ Die TAV Standard API stellt die Konditionen als JSON Dokument bereit.
     "anstellungsVerhaeltnis": "ANGESTELLTER"
   },
   "vermittler": "TESTPARTNER",
+  "ep2PartnerId": "ABC12",
   "auszahlungsTermin": "2015-10-01"
 }
 ```
