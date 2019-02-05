@@ -1,8 +1,11 @@
  
 # Top Angebot Vertrieb (TAV)
  
-Top Angebot Vertrieb (TAV) – ist ein Service zur Ermittlung der Top-Baufinanzierungskondition für EUROPACE Partner
+Top Angebot Vertrieb (TAV) – ist ein Service zur Ermittlung der Top-Baufinanzierungskondition für EUROPACE Partner.
+
 Die Schnittstelle liefert zu mehreren Zinsbindungen die jeweils beste Baufinanzierungskondition des anfragenden Partners auf Basis seiner Handelsbeziehungen in Europace.
+
+⚠️Um diese API zu verwenden, ist eine explizite Freischaltung des Partners seitens Europace notwendig.
 
 # Dokumentation
 
@@ -22,7 +25,11 @@ Bei Angabe eines Auszahlungsdatums, dass > 6 Monate in der Zukunft liegt, werden
 ## HTTP-Rest Service
 Der Service ist über einen Rest Service mit folgenden Pfad aufrufbar
 ```
-https://xxx/tav/standard/ermittleKonditionen
+https://tav.hypoport.de/tav/standard/ermittleKonditionen
+```
+Es existiert ein Testsystem ("Preview System") unter folgendem Pfad
+```
+https://pv.tav.hypoport.de/tav/standard/ermittleKonditionen
 ```
 
 ## Security
