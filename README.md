@@ -5,7 +5,7 @@ Top Angebot Vertrieb (TAV) – ist ein Service zur Ermittlung der Top-Baufinanzi
 
 Die Schnittstelle liefert zu mehreren Zinsbindungen die jeweils beste Baufinanzierungskondition des anfragenden Partners auf Basis seiner Handelsbeziehungen in Europace.
 
-⚠️Um diese API zu verwenden, ist eine explizite Freischaltung des Partners seitens Europace notwendig.
+⚠️Um diese API zu verwenden, ist eine explizite Freischaltung des Partners seitens Europace notwendig. Die API funktioniert nicht mit API Key.
 
 # Dokumentation
 
@@ -73,7 +73,7 @@ Die TAV Standard API stellt die Konditionen als JSON Dokument bereit.
     {
       "zinsBindungInJahren": 5,
       "laufzeitInMonaten": 858,
-      "sollZins": 0.9,
+D      "sollZins": 0.9,
       "effektivZins": 0.9,
       "monatlicheRate": 158.33,
       "restschuld": 94887.95,
