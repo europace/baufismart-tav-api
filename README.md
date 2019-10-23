@@ -1,7 +1,7 @@
  
 # Top Angebot Vertrieb (TAV)
  
-⚠️ *Um diese API zu verwenden, ist eine explizite Freischaltung des Partners seitens Europace notwendig. Diese API wird perspektivisch abgelöst durch die Angebote API, daher nehmen wir keine neuanbindungen vor*
+⚠️ **Um diese API zu verwenden, ist eine explizite Freischaltung des Partners seitens Europace notwendig. Diese API wird perspektivisch abgelöst durch die Angebote API, daher nehmen wir keine Neuanbindungen vor**
 
 Top Angebot Vertrieb (TAV) – ist ein Service zur Ermittlung der Top-Baufinanzierungskondition für EUROPACE Partner.
 
